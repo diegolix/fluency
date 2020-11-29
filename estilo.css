@@ -1,0 +1,221 @@
+body, html {
+    background-color: #222222;
+    color: white;
+    margin: 0;
+    background-size: cover;
+}
+.cabe{
+    display: inline-block;
+    width: 150px;
+    color: white;
+    font-family: "Rubik";
+    font-size: 12pt;
+
+}
+#header{
+    text-align: center;
+    background-color: #161616;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+a:link {
+    color:  white;
+  }
+
+a:visited{
+    color: white;
+}
+
+  h1{
+    text-align: center;
+    padding-top: 0.5em;
+    padding-bottom: 2em;
+  }
+  h2{
+    text-align: center;
+    padding-bottom: 5em;
+  }
+
+  p {
+      text-align: center;
+      font-size: 36pt;
+      font-family: "Rubik", bold;
+      padding-bottom: 1em;
+  }
+  .fundo {
+    text-align: center;
+    background-color: #161616;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
+  h3, h4, h5{
+    text-align: center;
+    margin-bottom: 0em;
+    color: white;
+    font-family: "Rubik";
+    font-size: 40pt;
+    font-style: italic;
+    text-shadow: 7px 5px #161616;
+    padding-bottom: 40px;
+  }
+  .passo{
+      padding-top: 2em;
+      text-align: center;
+  }
+  .clique{
+    padding-bottom: 1.3em;
+  }
+  p{
+      text-align: center;
+      font-family: "rubik";
+      font-style: italic;
+      font-size: 32px;
+  }
+  .txtsombra{
+      text-align: center;
+      font-style: italic;
+      text-shadow: 7px 5px #161616;
+      margin-top: 0em;
+      font-size: 37px;
+  }
+  .habilidades{
+    display: inline-block;
+    width: 300px;
+    color: white;
+    font-family: "Rubik";
+    font-size: 46pt;
+    font-style: italic;
+    text-shadow: 7px 5px #161616;
+    padding-bottom: 1em;
+  }
+  article{
+      text-align: center;
+
+  }
+  section{
+        background-color: #161616;
+        padding-top: 0.2em;
+        font-size: 36pt;
+        text-shadow: 7px 5px black;
+    }
+    #botao{
+        float: left;
+        margin-right: 39%;
+        margin-left: 39%;
+        padding-top: 20px;
+    }
+    .inter{
+        text-align: center;
+        font-size: 45px;
+    }
+    footer{
+        text-align: left;
+        background-color: #161616;
+        padding-top: 1em;
+        padding-bottom: 2.2em;
+        padding-left: 2em;
+        color: white;
+        font-family: "Rubik";
+        font-size: 15pt;
+        margin-top: 7em;
+    }
+    #voltar{
+      float:right;
+      padding-right: 2em;
+      font-size: 16px;
+      text-align: right;
+    }
+    #voltar:hover{
+      text-decoration: underline;
+    }
+    a{
+        text-decoration: none;
+    }
+    .titulo{
+        text-align: center;
+        font-style: italic;
+        text-shadow: 7px 5px #161616;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        font-size: 38px;
+    }
+    .reading {
+        display: inline-block;
+        width: 300px;
+    }
+    .cont {
+        box-shadow: 7px 7px #161616;
+    }
+    .titulo3{
+        text-align: left;
+        margin-bottom: 0em;
+        color: white;
+        font-family: "rubik";
+        font-size: 40pt;
+        font-style: italic;
+        text-shadow: 7px 5px #161616;
+        margin-left: 30px;
+      }
+      .justify{
+        text-align: justify;
+        margin-left: 7em;
+        margin-right: 7em;
+      }
+
+.paragrafo{
+    padding-left: 3em;
+    width: 30em;
+    font-size: 30px;
+    text-align: justify;
+    padding-right: 10px;
+
+}
+.pratique {
+    text-align: center;
+}
+.imgleft {
+    width: 187px;
+    float: left;
+    margin-right: 15px;
+    border: white;
+    border-style: solid;
+    border-width: 2px;
+}
+.imgright {
+    width: 187px;
+    float: right;
+    margin-left: 15px;
+    border: white;
+    border-style: solid;
+    border-width: 2px;
+}
+.paragraforight {
+    padding-right: 2em;
+    font-size: 22px;
+    text-align: right;
+    padding-left: 33em;
+}
+.paragrafoleft{
+    padding-left: 3em;
+    width: 30em;
+    font-size: 22px;
+    text-align: justify;
+    padding-right: 10px;
+}
+.titalinesq {
+    font-size: 40px;
+    padding-left: 2em;
+    text-align: left;
+    padding-right: 7em;
+}
+.titalindir {
+    font-size: 40px;
+    padding-right: 1em;
+    text-align: right;
+    padding-left: 7em;
+}
+.pratique2 {
+    padding-right: 1em;
+    text-align: right;
+    padding-left: 7em;
+}
