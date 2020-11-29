@@ -119,9 +119,19 @@ a:visited{
         font-size: 15pt;
         margin-top: 7em;
     }
+    #voltarcont{
+        position: absolute;
+        left: 40%;
+        text-align: center;
+        font-size: 25px;
+        padding: 1em;   
+    }
+    #voltarcont:hover{
+        text-decoration: underline;
+    }
     #voltar{
       float:right;
-      padding-right: 2em;
+      padding-right: 3em;
       font-size: 16px;
       text-align: right;
     }
@@ -174,7 +184,8 @@ a:visited{
     text-align: center;
 }
 .imgleft {
-    width: 187px;
+    display: block;
+    width: 178px;
     float: left;
     margin-right: 15px;
     border: white;
@@ -182,7 +193,8 @@ a:visited{
     border-width: 2px;
 }
 .imgright {
-    width: 187px;
+    display: block;
+    width: 178px;
     float: right;
     margin-left: 15px;
     border: white;
@@ -191,14 +203,14 @@ a:visited{
 }
 .paragraforight {
     padding-right: 2em;
-    font-size: 22px;
+    font-size: 20px;
     text-align: right;
     padding-left: 33em;
 }
 .paragrafoleft{
     padding-left: 3em;
     width: 30em;
-    font-size: 22px;
+    font-size: 20px;
     text-align: justify;
     padding-right: 10px;
 }
